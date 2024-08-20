@@ -1,10 +1,10 @@
 # Finite State Machine Design
 
-**Name:** Shaik Khasim Shareef  
+**Name:** Sanga Akshay  
 **Company:** CODETECH IT SOLUTIONS  
-**ID:** CT12DS2112  
+**ID:** CT08DS2166
 **Domain:** VLSI  
-**Duration:** August 5th to October 5th, 2024
+**Duration:** August 10th to October 10th, 2024
 
 ## Overview of the Project
 
